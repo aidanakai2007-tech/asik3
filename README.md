@@ -116,8 +116,6 @@ public class MyHashTable<K, V> {
         }
         return sizes;
     }
-    
-    // ДОПОЛНИТЕЛЬНЫЙ МЕТОД - получить общее количество элементов
     public int size() {
         return size;
     }
